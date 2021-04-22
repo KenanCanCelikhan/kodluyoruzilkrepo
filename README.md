@@ -1,3 +1,4 @@
+![ödev1](ödev_1.png)
 # Kodluyoruz İlk Repo
 ---
 Bu repo [Kodluyoruz](https://www.kodluyoruz.org/) Front-End Eğitiminde oluşturduğumunz ilk repodur. İçerisinde bir adet READNE dosyası ,bir adet index.html barındırıyor.
@@ -28,5 +29,3 @@ Pull requestler kabul edilir. Büyük değişiklikler için , lütfen önce neyi
 [MİT](https://choosealicense.com/licenses/mit/)
 
 ![Kodluyoruz](https://github.com/Kodluyoruz)
-
-![ödev1](ödev_1.png)
